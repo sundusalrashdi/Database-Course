@@ -1,1 +1,1 @@
-# Database-Course-Documentation
+This report explores core database concepts, including comparisons, roles, types of databases, and cloud integration. All content is well-organized in a single file for easy reference and understanding. 
